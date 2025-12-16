@@ -1,3 +1,8 @@
+## Dashboard Preview
+
+![Dashboard Preview](export/Dashboard_Screenshot.png)
+
+
 # Billing & Revenue Analytics – Accounts Receivable Case Study
 
 Finance-focused analytics project analyzing billing performance, cash collection efficiency, and Accounts Receivable (AR) risk using Power BI and DAX.
