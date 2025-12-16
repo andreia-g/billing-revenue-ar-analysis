@@ -1,6 +1,15 @@
+
+
+
 ## Dashboard Preview
 
 ![Dashboard Preview](export/Dashboard_Screenshot.png)
+
+[Executive Dashboard (PDF)](export/Billing_Revenue_Dashboard_1pager.pdf)
+
+[Written Analysis (PDF)](analysis/Billing_Revenue_Analysis.pdf)
+
+[Data Dictionary](data_dictionary.md)
 
 
 # Billing & Revenue Analytics – Accounts Receivable Case Study
