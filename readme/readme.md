@@ -80,7 +80,7 @@ Synthetic datasets and field definitions used in the analysis.
 All transformations performed within Power BI.
 
 ---
-
+``` 
 ## Project Structure
 
 Billing_Revenue_AR_Analysis/
@@ -104,7 +104,7 @@ Billing_Revenue_AR_Analysis/
 └── readme/
 ├── README.md
 └── DATA_DICTIONARY.txt
-
+``` 
 ---
 
 ## Skills Demonstrated
